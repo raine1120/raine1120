@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a Full Stack Developer with over 8 years of experience building scalable web applications and managing relational databases in production environments. I love solving complex problems and working with tools like Laravel, Vue.js, and PostgreSQL. I’m currently working as a Database Administrator at UNO while contributing to eCommerce and SaaS platforms part-time.
+I'm a Full Stack Developer with over 8 years of experience building scalable web applications and managing relational databases in production environments. I love solving complex problems and working with tools like Laravel, Vue.js, and PostgreSQL. I’m currently working as a Database Administrator at while contributing to eCommerce and SaaS platforms part-time.
 
 I specialize in backend and frontend development, database design, and API integration — all with clean, maintainable code.
 
