@@ -45,6 +45,9 @@ I specialize in backend and frontend development, database design, and API integ
   <a href="https://www.linkedin.com/in/rsanchezm11/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
+  <a href="https://www.upwork.com/freelancers/rainesanchez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ---
