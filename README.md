@@ -8,9 +8,6 @@ I specialize in backend and frontend development, database design, and API integ
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raine1120&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### 🧰 Tech Stack
 
